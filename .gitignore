@@ -3,3 +3,9 @@
 ################################################################################
 
 /DiagnosticDemo/.vs/DiagnosticDemo/v16
+/DiagnosticDemo/ConsoleApp/obj
+/DiagnosticDemo/WebAPI/obj
+/DiagnosticDemo/ConsoleApp/bin/Debug/net5.0
+/DiagnosticDemo/WebAPI/bin/Debug/net5.0
+*.dmp
+*.nettrace
